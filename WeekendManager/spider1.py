@@ -7,3 +7,6 @@ class spider1(scrapy.Spider):
 
     def parse(self, response):
         pass
+
+if __name__ == '__spider1__':
+    
